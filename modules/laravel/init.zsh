@@ -16,7 +16,7 @@ compdef _laravel '`_laravel_artisan`'
 compdef _laravel 'artisan'
 
 # #Alias
-# alias art='`_laravel_artisan`'
+alias art='`_laravel_artisan`'
 # alias sfcl='sf cache:clear'
 # alias sfcw='sf cache:warmup'
 # alias sfroute='sf router:debug'
